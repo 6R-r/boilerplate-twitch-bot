@@ -1,5 +1,5 @@
 {
-  "name": "twitch-bot-boilerplate",
+  "name": "boilerplate-twitch-bot",
   "version": "1.0.0",
   "description": "A very basic Twitch Bot boilerplate with a command handler and experimental permissions system.",
   "main": "index.js",
