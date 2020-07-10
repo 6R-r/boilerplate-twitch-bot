@@ -1,0 +1,17 @@
+{
+    "tmiOptions": {
+        "options": {
+            "debug": true
+        },
+        "connection": {
+            "reconnect": true,
+            "secure": true
+        },
+        "identity": {
+            "username": "username",
+            "password": "oauth:xyz123"
+        },
+        "channels": ["channel"]
+    },
+    "prefix": "$"
+}

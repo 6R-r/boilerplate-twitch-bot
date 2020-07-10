@@ -1,0 +1,27 @@
+{
+  "name": "twitch-bot-boilerplate",
+  "version": "1.0.0",
+  "description": "A very basic Twitch Bot boilerplate with a command handler and experimental permissions system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "twitch",
+    "tmi.js",
+    "command",
+    "handler",
+    "chatbot",
+    "bot"
+  ],
+  "author": "Kovács Bence",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "tmi.js": "^1.5.0"
+  }
+}
